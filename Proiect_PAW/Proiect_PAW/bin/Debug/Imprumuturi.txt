@@ -1,0 +1,7 @@
+Nume:kico
+CNP:1234567891234
+
+Carte:
+Id:14 Nume:hamlre
+ Nr pagini:475
+

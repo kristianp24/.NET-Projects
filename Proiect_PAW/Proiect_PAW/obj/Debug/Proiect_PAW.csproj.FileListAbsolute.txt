@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Proiect_PAW\Proiect_PAW\bin\Debug\Proiect_PAW.exe.config
+C:\Users\HP\source\repos\Proiect_PAW\Proiect_PAW\bin\Debug\Proiect_PAW.exe
+C:\Users\HP\source\repos\Proiect_PAW\Proiect_PAW\bin\Debug\Proiect_PAW.pdb
+C:\Users\HP\source\repos\Proiect_PAW\Proiect_PAW\obj\Debug\Proiect_PAW.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Proiect_PAW\Proiect_PAW\obj\Debug\Proiect_PAW.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Proiect_PAW\Proiect_PAW\obj\Debug\Proiect_PAW.Properties.Resources.resources
+C:\Users\HP\source\repos\Proiect_PAW\Proiect_PAW\obj\Debug\Proiect_PAW.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Proiect_PAW\Proiect_PAW\obj\Debug\Proiect_PAW.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Proiect_PAW\Proiect_PAW\obj\Debug\Proiect_PAW.exe
+C:\Users\HP\source\repos\Proiect_PAW\Proiect_PAW\obj\Debug\Proiect_PAW.pdb
+C:\Users\HP\source\repos\Proiect_PAW\Proiect_PAW\obj\Debug\Proiect_PAW.Form1.resources
+C:\Users\HP\source\repos\Proiect_PAW\Proiect_PAW\obj\Debug\Proiect_PAW.InregistrareForm.resources
+C:\Users\HP\source\repos\Proiect_PAW\Proiect_PAW\obj\Debug\Proiect_PAW.InregistrareStudent.resources
+C:\Users\HP\source\repos\Proiect_PAW\Proiect_PAW\obj\Debug\Proiect_PAW.ImprumutForm.resources
