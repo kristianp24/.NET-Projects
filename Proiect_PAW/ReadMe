@@ -1,0 +1,3 @@
+This file contains an uni project where I have created an user interface about a library using Windows Forms. The application
+is user-friendly, it has a menu which mades navigating easier.Takes data from the user,saves it in a text file
+or in a database (depending on data). Also it contains a graphic representation of some information.
