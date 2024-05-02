@@ -1,2 +1,2 @@
 # CS
-Simple C# projects using .NET framework.
+C# projects using .NET framework.
