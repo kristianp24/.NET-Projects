@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Pacienti>
+  <Id>25</Id>
+  <Nume>Alma</Nume>
+  <Tarif>250.5</Tarif>
+  <Id>36</Id>
+  <Nume>Bela</Nume>
+  <Tarif>300.5</Tarif>
+</Pacienti>

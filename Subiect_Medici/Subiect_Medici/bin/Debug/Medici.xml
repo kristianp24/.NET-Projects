@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Medici>
+  <Medic>
+    <Id>1</Id>
+    <Nume>Kico</Nume>
+    <Specialitate>Cap</Specialitate>
+  </Medic>
+  <Medic>
+    <Id>2</Id>
+    <Nume>Mihnea</Nume>
+    <Specialitate>Inima</Specialitate>
+  </Medic>
+</Medici>

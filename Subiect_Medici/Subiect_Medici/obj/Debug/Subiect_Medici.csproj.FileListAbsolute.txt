@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Subiect_Medici\Subiect_Medici\bin\Debug\Subiect_Medici.exe.config
+C:\Users\HP\source\repos\Subiect_Medici\Subiect_Medici\bin\Debug\Subiect_Medici.exe
+C:\Users\HP\source\repos\Subiect_Medici\Subiect_Medici\bin\Debug\Subiect_Medici.pdb
+C:\Users\HP\source\repos\Subiect_Medici\Subiect_Medici\obj\Debug\Subiect_Medici.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Subiect_Medici\Subiect_Medici\obj\Debug\Subiect_Medici.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Subiect_Medici\Subiect_Medici\obj\Debug\Subiect_Medici.Form1.resources
+C:\Users\HP\source\repos\Subiect_Medici\Subiect_Medici\obj\Debug\Subiect_Medici.Properties.Resources.resources
+C:\Users\HP\source\repos\Subiect_Medici\Subiect_Medici\obj\Debug\Subiect_Medici.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Subiect_Medici\Subiect_Medici\obj\Debug\Subiect_Medici.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Subiect_Medici\Subiect_Medici\obj\Debug\Subiect_Medici.exe
+C:\Users\HP\source\repos\Subiect_Medici\Subiect_Medici\obj\Debug\Subiect_Medici.pdb
+C:\Users\HP\source\repos\Subiect_Medici\Subiect_Medici\obj\Debug\Subiect_Medici.Medici.resources
+C:\Users\HP\source\repos\Subiect_Medici\Subiect_Medici\obj\Debug\Subiect_Medici.AfisareBd.resources
