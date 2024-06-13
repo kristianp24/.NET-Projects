@@ -1,0 +1,6 @@
+1,Mihnea,50.0
+2,Mihai,25.5
+3,Lola,32.6
+4,Miruna,47.5
+5,Alexandra,52.6
+6,Lolita,20.5

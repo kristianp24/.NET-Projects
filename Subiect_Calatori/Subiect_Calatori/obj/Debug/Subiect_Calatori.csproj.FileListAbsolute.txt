@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Subiect_Calatori\Subiect_Calatori\bin\Debug\Subiect_Calatori.exe.config
+C:\Users\HP\source\repos\Subiect_Calatori\Subiect_Calatori\bin\Debug\Subiect_Calatori.exe
+C:\Users\HP\source\repos\Subiect_Calatori\Subiect_Calatori\bin\Debug\Subiect_Calatori.pdb
+C:\Users\HP\source\repos\Subiect_Calatori\Subiect_Calatori\obj\Debug\Subiect_Calatori.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Subiect_Calatori\Subiect_Calatori\obj\Debug\Subiect_Calatori.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Subiect_Calatori\Subiect_Calatori\obj\Debug\Subiect_Calatori.Form1.resources
+C:\Users\HP\source\repos\Subiect_Calatori\Subiect_Calatori\obj\Debug\Subiect_Calatori.Properties.Resources.resources
+C:\Users\HP\source\repos\Subiect_Calatori\Subiect_Calatori\obj\Debug\Subiect_Calatori.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Subiect_Calatori\Subiect_Calatori\obj\Debug\Subiect_Calatori.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Subiect_Calatori\Subiect_Calatori\obj\Debug\Subiect_Calatori.exe
+C:\Users\HP\source\repos\Subiect_Calatori\Subiect_Calatori\obj\Debug\Subiect_Calatori.pdb

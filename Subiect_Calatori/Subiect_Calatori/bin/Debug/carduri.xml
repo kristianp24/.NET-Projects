@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Carduri>
+  <Card>
+    <Cod>1</Cod>
+    <Nume>Mihnea</Nume>
+    <Sold>50</Sold>
+  </Card>
+  <Card>
+    <Cod>2</Cod>
+    <Nume>Mihai</Nume>
+    <Sold>25.5</Sold>
+  </Card>
+  <Card>
+    <Cod>3</Cod>
+    <Nume>Lola</Nume>
+    <Sold>32.6</Sold>
+  </Card>
+  <Card>
+    <Cod>4</Cod>
+    <Nume>Miruna</Nume>
+    <Sold>47.5</Sold>
+  </Card>
+  <Card>
+    <Cod>5</Cod>
+    <Nume>Alexandra</Nume>
+    <Sold>52.6</Sold>
+  </Card>
+  <Card>
+    <Cod>6</Cod>
+    <Nume>Lolita</Nume>
+    <Sold>20.5</Sold>
+  </Card>
+</Carduri>
