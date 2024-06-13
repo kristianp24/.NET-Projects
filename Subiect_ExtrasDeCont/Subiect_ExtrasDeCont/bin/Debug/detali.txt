@@ -1,0 +1,4 @@
+Mihai,Energeticienilor,1,IBAN11,Retragere Numerar,2500.5,16/6/20242,IBAN12,Depunere Numerar,3600,14/6/20243,IBAN13,Retragre NUmerar,4200.5,5/5/20244,IBAN14,Schimbare Pin,0,16/6/2024
+Beni,Calea Victorieri,1,IBAN11,Retragere Numerar,2500.5,16/6/20242,IBAN12,Depunere Numerar,3600,14/6/20243,IBAN13,Retragre NUmerar,4200.5,5/5/20244,IBAN14,Schimbare Pin,0,16/6/2024
+Miruna,Chibzuintei 5,1,IBAN11,Retragere Numerar,2500.5,16/6/20242,IBAN12,Depunere Numerar,3600,14/6/20243,IBAN13,Retragre NUmerar,4200.5,5/5/20244,IBAN14,Schimbare Pin,0,16/6/2024
+Alma,Herestrau,1,IBAN11,Retragere Numerar,2500.5,16/6/20242,IBAN12,Depunere Numerar,3600,14/6/20243,IBAN13,Retragre NUmerar,4200.5,5/5/20244,IBAN14,Schimbare Pin,0,16/6/2024

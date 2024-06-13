@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Subiect_ExtrasDeCont\Subiect_ExtrasDeCont\bin\Debug\Subiect_ExtrasDeCont.exe.config
+C:\Users\HP\source\repos\Subiect_ExtrasDeCont\Subiect_ExtrasDeCont\bin\Debug\Subiect_ExtrasDeCont.exe
+C:\Users\HP\source\repos\Subiect_ExtrasDeCont\Subiect_ExtrasDeCont\bin\Debug\Subiect_ExtrasDeCont.pdb
+C:\Users\HP\source\repos\Subiect_ExtrasDeCont\Subiect_ExtrasDeCont\obj\Debug\Subiect_ExtrasDeCont.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Subiect_ExtrasDeCont\Subiect_ExtrasDeCont\obj\Debug\Subiect_ExtrasDeCont.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Subiect_ExtrasDeCont\Subiect_ExtrasDeCont\obj\Debug\Subiect_ExtrasDeCont.Form1.resources
+C:\Users\HP\source\repos\Subiect_ExtrasDeCont\Subiect_ExtrasDeCont\obj\Debug\Subiect_ExtrasDeCont.Properties.Resources.resources
+C:\Users\HP\source\repos\Subiect_ExtrasDeCont\Subiect_ExtrasDeCont\obj\Debug\Subiect_ExtrasDeCont.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Subiect_ExtrasDeCont\Subiect_ExtrasDeCont\obj\Debug\Subiect_ExtrasDeCont.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Subiect_ExtrasDeCont\Subiect_ExtrasDeCont\obj\Debug\Subiect_ExtrasDeCont.exe
+C:\Users\HP\source\repos\Subiect_ExtrasDeCont\Subiect_ExtrasDeCont\obj\Debug\Subiect_ExtrasDeCont.pdb

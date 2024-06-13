@@ -1,0 +1,4 @@
+1,IBAN11,Retragere Numerar,2500.5,16/6/2024
+2,IBAN12,Depunere Numerar,3600,14/6/2024
+3,IBAN13,Retragre NUmerar,4200.5,5/5/2024
+4,IBAN14,Schimbare Pin,0,16/6/2024
